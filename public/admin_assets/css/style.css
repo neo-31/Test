@@ -1,0 +1,48 @@
+.theme-bg.gradient {
+    background: #E0C463;
+}
+.sidebar{
+	background-color: #202223;
+}
+
+.menu_toggle {
+    background: #E0C463 !important;
+    /*background-image: linear-gradient( to right, #aa762d 0%, #fff36f 50%, #aa762d 100% )  !important;*/
+}
+#body a:focus{
+     color: #E0C463;
+
+}
+.metismenu a,.user-account {
+    color: rgb(153 153 153) !important;
+}
+.nav-item a:hover{
+	color:black !important;
+}
+.metismenu a:focus, .metismenu a:hover,a:hover,.fa:hover{
+    color: #E0C463 !important;
+}
+.metismenu>li.active ul a:before, .metismenu>li.active ul a:focus ,.nav.nav-tabs4{
+    background: #E0C463 !important;
+}
+.btn.btn-primary{
+    background-color: #E0C463;
+    /*background-image: linear-gradient( to right, #aa762d 0%, #fff36f 50%, #aa762d 100% );*/
+}
+div#left-sidebar {
+    background-color: #202223 !important;
+}
+.metismenu>li.active>a {
+    color: var(--primary-color);
+}
+
+.auth-main a:not(.btn) {
+    color: #E0C463 !important;
+}
+.form-control:focus {
+    color: #000 !important;
+    border-color: #F3E37A !important;
+}
+td.discriptionn {
+    white-space: pre-wrap !important;
+}

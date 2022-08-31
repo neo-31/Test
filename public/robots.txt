@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Disallow: https://www.vdrresale.com/public/index.php/about
+Disallow: https://www.vdrresale.com/public/index.php/blog
+Disallow: https://www.vdrresale.com/public/index.php/services
+Disallow: https://www.vdrresale.com/public/index.php/shop
+Disallow: https://www.vdrresale.com/public/index.php/quote
+Disallow: https://www.vdrresale.com/public/index.php/faq
+Disallow: https://www.vdrresale.com/public/index.php/contact
+Disallow: https://www.vdrresale.com/public/index.php/testimonials
+Disallow: https://www.vdrresale.com/public/index.php/cart
+Disallow: https://www.vdrresale.com/public/index.php/video
+Disallow: https://www.vdrresale.com/public/index.php/shop/manufacturer/avaya
+Disallow: https://www.vdrresale.com/public/index.php/shop/category/headsets
+Disallow: https://www.vdrresale.com/public/index.php/service/sell-it-equipment
+Disallow: https://www.vdrresale.com/public/index.php/service/sell-mitel-equipment
+Disallow: https://www.vdrresale.com/public/index.php/shop/manufacturer/e-metrotel
+Disallow: https://www.vdrresale.com/public/index.php/service/sell-used-phone-system
+Disallow: https://www.vdrresale.com/public/index.php/service/sell-your-mitel-phones-system
+Disallow: https://www.vdrresale.com/public/index.php/blog/what-is-technology-lifecycle-management
+Disallow: https://www.vdrresale.com/public/index.php/blog/learn-about-our-commitment-to-100-reuse
+Disallow: https://www.vdrresale.com/public/index.php/shop/cisco-ws-c2960x-48lps-l-new-628f5b35997d1
+Disallow: https://www.vdrresale.com/public/index.php/blog/explore-the-dark-side-of-e-waste-in-the-digital-age
+
+Sitemap: https://www.vdrresale.com/sitemap.xml
